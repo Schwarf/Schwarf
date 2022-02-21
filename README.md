@@ -1,5 +1,7 @@
 Hi, 
+
 I’m Andreas Scharf and I'm interested in modern software development, physics and more ....
+
 I’m currently learning 
   - simple ray tracing in C++ and CUDA
   - data structures (C++)
