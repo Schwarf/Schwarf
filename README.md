@@ -8,6 +8,8 @@ Currently my main focus lies on
 From time to time I try to improve my understanding
   - on multithreading programming in C++ and CUDA
   - machine learning in python
+  - how to write android apps in Kotlin
+  - setup and maintain SQL databases
 
 I’m looking to collaborate on an open source project that fits my interests and my current learning topics.
 
