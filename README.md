@@ -1,6 +1,6 @@
 Hi, 
 
-I’m Andreas Scharf and as a physicist I'm interested in modern software development:
+I’m Andreas Scharf and as a physicist I'm interested in modern software development.
 Currently my main focus lies on 
   - algorithms and data structures in C++, C++17 and C++20 
   - hypothesis testing in statistics using python and C++
