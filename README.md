@@ -1,14 +1,29 @@
-Hi, 
+### Hi, I’m Andreas 👋
 
-I’m Andreas Scharf and as a physicist I'm interested in modern software development.
-Currently my main focus lies on 
-  - algorithms and data structures in C++, C++17 and C++20 
-  - how to write android apps in Kotlin
-  - learning Golang
+Senior software engineer with a physics background, **algorithms**, **performance**, and **numerics**.
 
-From time to time I try to improve my understanding
-  - on multithreading programming in C++ and CUDA
-  - machine-/deep-learning in python
+---
 
-I’m looking to collaborate on an open source project that fits my interests and my current learning topics.
+## What I’m working on
+- **Modern C++ (C++17/20)** — algorithms, cache-aware data structures, profiling & microbenchmarks
+- **Concurrency fundamentals** — lock-free data structures, atomics, memory ordering  
+- **Go** — graph & numerics tooling and first steps into distributed systems
+- **Python** — using Python for analysis, tooling, quick experiments, and some deep learning
+ 
+---
+
+## Selected open-source work
+- **NetworKit (C++)** — graph algorithms & performance improvements; tests and code quality
+- **Gonum (Go)** — graph algorithms and special functions (e.g., Li₂) with benchmarks
+- **Personal** — concurrency playgrounds and small utilities  
+
+---
+
+## Toolbox
+C++17/20 (GCC/Clang) · Python · Go · CMake · GoogleTest/Benchmark · Valgrind/Callgrind · Docker · GitHub Actions · Linux
+
+---
+
+### Past explorations
+Android/Kotlin (app basics) · CUDA (intro-level concurrency experiments)
 
