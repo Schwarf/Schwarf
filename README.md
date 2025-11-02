@@ -1,6 +1,6 @@
 ### Hi, I’m Andreas 👋
 
-Senior software engineer with a physics background, **algorithms**, **performance**, and **numerics**.
+Senior software engineer with a physics background, with interests in **algorithms**, **performance**, and **numerics**.
 
 ---
 
@@ -15,7 +15,7 @@ Senior software engineer with a physics background, **algorithms**, **performanc
 ## Selected open-source work
 - **NetworKit (C++)** — graph algorithms & performance improvements; tests and code quality
 - **Gonum (Go)** — graph algorithms and special functions (e.g., Li₂) with benchmarks
-- **Personal** — concurrency playgrounds and small utilities  
+- **Personal repos** — algorithms, concurrency playgrounds, and small utilities  
 
 ---
 
