@@ -3,6 +3,8 @@ Hi, I’m Andreas 👋
 Senior software engineer with a background in theoretical physics, specializing in
 performance-critical systems, algorithms, and numerical software.
 
+🔗 Website and CV: https://schwarf.github.io/
+
 ### Focus areas
 - **Modern C++ (C++17/20)** — algorithm engineering, cache-aware data structures,
   profiling, benchmarking, and correctness-driven design
