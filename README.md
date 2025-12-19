@@ -1,29 +1,27 @@
-### Hi, I’m Andreas 👋
+Hi, I’m Andreas 👋
 
-Senior software engineer with a physics background, with interests in **algorithms**, **performance**, and **numerics**.
+Senior software engineer with a background in theoretical physics, specializing in
+performance-critical systems, algorithms, and numerical software.
 
----
+### Focus areas
+- **Modern C++ (C++17/20)** — algorithm engineering, cache-aware data structures,
+  profiling, benchmarking, and correctness-driven design
+- **Graph algorithms & numerics** — both theoretical foundations and practical,
+  large-scale implementations
+- **Go** — graph algorithms, numerical libraries, and initial work on
+  distributed-systems-adjacent tooling
+- **Python** — analysis, tooling, experiments, and ML-adjacent prototyping
 
-## What I’m working on
-- **Modern C++ (C++17/20)** — algorithms, cache-aware data structures, profiling & microbenchmarks
-- **Concurrency fundamentals** — lock-free data structures, atomics, memory ordering  
-- **Go** — graph & numerics tooling and first steps into distributed systems
-- **Python** — using Python for analysis, tooling, quick experiments, and some deep learning
- 
----
+### Selected open-source work
+- **NetworKit (C++)** — graph algorithms, planarity testing, and substantial
+  performance optimizations; extensive testing and benchmarking
+- **Gonum (Go)** — graph algorithms and numerical special functions
+  (e.g. dilogarithm Li₂), with benchmarks and performance analysis
+- **Personal repositories** — algorithm implementations, performance experiments,
+  and systems-programming playgrounds
 
-## Selected open-source work
-- **NetworKit (C++)** — graph algorithms & performance improvements; tests and code quality
-- **Gonum (Go)** — graph algorithms and special functions (e.g., Li₂) with benchmarks
-- **Personal repos** — algorithms, concurrency playgrounds, and small utilities  
+### Toolbox
+C++17/20 (GCC/Clang) · Go · Python · CMake · GoogleTest / Google Benchmark ·
+Valgrind / Callgrind · Docker · GitHub Actions · Linux
 
----
-
-## Toolbox
-C++17/20 (GCC/Clang) · Python · Go · CMake · GoogleTest/Benchmark · Valgrind/Callgrind · Docker · GitHub Actions · Linux
-
----
-
-### Past explorations
-Android/Kotlin (app basics) · CUDA (intro-level concurrency experiments)
-
+<sub>Past explorations: Android/Kotlin · CUDA (introductory GPU concurrency experiments)</sub>
